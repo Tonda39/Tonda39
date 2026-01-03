@@ -1,4 +1,6 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+![My GitHub Game](game.gif)
+
 
 <!--
 **Tonda39/Tonda39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
